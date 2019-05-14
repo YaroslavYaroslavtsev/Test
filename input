@@ -1,3 +1,4 @@
+@include "github:YaroslavYaroslavtsev/Test/input"
 @include "inc-a"
 @include "./inc-b"
 @include ".\\inc-c"
