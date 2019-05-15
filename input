@@ -1,7 +1,2 @@
-@include "inc-a"
-@include "./inc-b"
-@include ".\\inc-c"
-@include "./tmp/../inc-b"
-@include ".\\tmp\\../inc-c"
-
+@include "github:YaroslavYaroslavtsev/Test/input2"
 
