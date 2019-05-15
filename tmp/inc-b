@@ -1,3 +1,3 @@
 // inc-b
 @include "../inc-a"
-@include __PATH__ + "/../inc-a"
+@include "./inc-b"
