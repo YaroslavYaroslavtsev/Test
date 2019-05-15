@@ -2,7 +2,7 @@
 @include "./inc-a"
 @include "tmp/inc-b"
 @include "./tmp/inc-b"
-@include "../Builder/inc-a"
+@include "../Test/inc-a"
 @include "tmp/../inc-a"
 
 
